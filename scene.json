@@ -11,56 +11,56 @@
       "glyph": "plate",
       "label": "Patterned conduction annulus",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "plate",
       "label": "Radial",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "plate",
       "label": "Circumferential directions",
       "role": "structure",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "doc",
       "label": "Qualitative conductivity contrast",
       "role": "path",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Plot isotherms separately",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "can",
       "label": "Flux",
       "role": "energy",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "plate",
       "label": "Exterior field disturbance",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.8
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
